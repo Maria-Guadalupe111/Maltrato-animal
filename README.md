@@ -5,6 +5,8 @@ Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 
 "Maltrato Animal"
 
+! https://www.google.com/url?sa=i&url=https%3A%2F%2Fsinmaltrato.org%2Fmaltrato&psig=AOvVaw24tVsQXGZwmTgK2I6d0hs4&ust=1758813130504000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjgj_HX8Y8DFQAAAAAdAAAAABAh
+
 # PREGUNTA A RESPONDER CON ANALISIS DE DATOS: 
 
 ¿Cuáles son los factores que contribuyen a un mayor riesgo de maltrato animal en diferentes regiones geográficas?
@@ -38,9 +40,9 @@ Identificar los factores que aumentan el riesgo de maltrato animal en diferentes
 
 # ANALISIS DE DATOS:
 
-1. Análisis descriptivo: Describir la distribución de casos de maltrato animal por región geográfica y tipo de maltrato.
-2. Análisis de correlación: Identificar las variables demográficas, socioeconómicas y de recursos que se correlacionan con el número de casos de maltrato animal.
-3. Modelado predictivo: Desarrollar modelos de regresión para predecir el número de casos de maltrato animal en función de las variables identificadas en el análisis de correlación.
+Describir la distribución de casos de maltrato animal por región geográfica y tipo de maltrato.
+Identificar las variables demográficas, socioeconómicas y de recursos que se correlacionan con el número de casos de maltrato animal.
+Desarrollar modelos de regresión para predecir el número de casos de maltrato animal en función de las variables identificadas en el análisis de correlación.
 
 # PREPARACION DE RESULTADOS:
 
