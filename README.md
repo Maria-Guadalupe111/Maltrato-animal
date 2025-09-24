@@ -5,7 +5,6 @@ Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 
 "Maltrato Animal"
 
-!https://www.google.com/url?sa=i&url=https%3A%2F%2Fsinmaltrato.org%2Fmaltrato&psig=AOvVaw24tVsQXGZwmTgK2I6d0hs4&ust=1758813130504000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjgj_HX8Y8DFQAAAAAdAAAAABAh
 
 # PREGUNTA A RESPONDER CON ANALISIS DE DATOS: 
 
