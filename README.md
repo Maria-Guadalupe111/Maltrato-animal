@@ -42,12 +42,12 @@ Identificar los factores que aumentan el riesgo de maltrato animal en diferentes
 2. Análisis de correlación: Identificar las variables demográficas, socioeconómicas y de recursos que se correlacionan con el número de casos de maltrato animal.
 3. Modelado predictivo: Desarrollar modelos de regresión para predecir el número de casos de maltrato animal en función de las variables identificadas en el análisis de correlación.
 
-# PREPARACION DE RESULTADOS
+# PREPARACION DE RESULTADOS:
 
 1. Visualización de datos: Crear mapas y gráficos para visualizar la distribución de casos de maltrato animal y las variables asociadas.
 2. Informe de resultados: Presentar los hallazgos en un informe detallado que incluya recomendaciones para políticas y programas de prevención del maltrato animal.
 
-# IMPACTO ESPERADO
+# IMPACTO ESPERADO:
 
 - Informar políticas y programas de prevención del maltrato animal.
 - Identificar regiones geográficas con mayor riesgo de maltrato animal.
