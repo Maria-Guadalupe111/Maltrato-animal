@@ -1,6 +1,8 @@
 # Maltrato-animal
 Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7c752be4-5c81-4914-b3e4-7463e5d1080d" />
+
 
 # TEMA:
 
