@@ -1,11 +1,16 @@
 # Maltrato-animal
 Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 
-Pregunta: ¿Cuáles son los factores que contribuyen a un mayor riesgo de maltrato animal en diferentes regiones geográficas?
+TEMA:
 
-Objetivo: Identificar los factores que aumentan el riesgo de maltrato animal en diferentes regiones geográficas para informar políticas y programas de prevención.
+"Maltrato Animal"
 
-Elementos de Datos Necesarios:
+PREGUNTA A RESPONDER CON ANALISIS DE DATOS: 
+
+¿Cuáles son los factores que contribuyen a un mayor riesgo de maltrato animal en diferentes regiones geográficas?
+
+
+ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA:
 
 1. Datos de maltrato animal:
 - Número de casos de maltrato animal reportados por región geográfica.
@@ -21,11 +26,15 @@ Elementos de Datos Necesarios:
 - Número de refugios para animales y organizaciones de bienestar animal por región geográfica.
 - Acceso a servicios veterinarios y recursos para el cuidado animal.
 
-Fuentes de Datos:
-
+FUENTES DE INFORMACION:
 1. Organizaciones de bienestar animal (ONGs).
 2. Bases de datos gubernamentales (policía, salud pública, etc.).
 3. Censos y encuestas nacionales.
+
+OBJETIVO:
+
+Identificar los factores que aumentan el riesgo de maltrato animal en diferentes regiones geográficas para informar políticas y programas de prevención.
+
 
 Análisis de Datos:
 
