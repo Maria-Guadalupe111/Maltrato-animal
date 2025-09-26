@@ -31,10 +31,12 @@ Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 - Acceso a servicios veterinarios y recursos para el cuidado animal.
 
 # FUENTES DE INFORMACION:
-1. Organizaciones de bienestar animal (ONGs).
-2. Bases de datos gubernamentales (policía, salud pública, etc.).
-3. Censos y encuestas nacionales.
+1. https://sinmaltrato.org/atlas
+2. https://www.informador.mx/mexico/Cuantos-animales-sufren-maltrato-animal-en-Mexico-20240131-0060.html
+3. https://todosloshechos.es/que-tan-comun-es-el-maltrato-animal-en-mexico
+4. https://comunicacionsocial.senado.gob.mx/informacion/comunicados/6132-siete-de-cada-10-mascotas-en-mexico-sufren-maltrato-senala-estudio-del-ibd
 
+   
 # OBJETIVO:
 
 Identificar los factores que aumentan el riesgo de maltrato animal en diferentes regiones geográficas para informar políticas y programas de prevención.
