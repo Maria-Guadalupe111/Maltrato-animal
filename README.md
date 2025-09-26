@@ -11,7 +11,7 @@ Proyecto de Ciencia de Datos sobre el "Maltrato Animal".
 
 # PREGUNTA A RESPONDER CON ANALISIS DE DATOS: 
 
-¿Cuáles son los factores que contribuyen a un mayor riesgo de maltrato animal en diferentes regiones geográficas?
+¿Cuáles son los factores que contribuyen a un mayor riesgo de maltrato animal en diferentes regiones geográficas de México?
 
 
 # ELEMENTOS DE DATOS NECESARIOS PARA PODER DAR RESPUESTA:
